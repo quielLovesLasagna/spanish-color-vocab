@@ -1,6 +1,6 @@
 # Spanish Color Vocab Project
 
-Toggle Dark and Light mode.
+Simple spanish color vocabulary
 
 Live site url: [https://quiel-spanish-vocab-project.netlify.app/](https://quiel-spanish-vocab-project.netlify.app/)
 
