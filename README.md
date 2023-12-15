@@ -2,7 +2,7 @@
 
 Toggle Dark and Light mode.
 
-Live site url: [https://quiel-dark-light-mode.netlify.app/](https://quiel-dark-light-mode.netlify.app/)
+Live site url: [https://quiel-spanish-vocab-project.netlify.app/](https://quiel-spanish-vocab-project.netlify.app/)
 
 ## Table of contents
 
